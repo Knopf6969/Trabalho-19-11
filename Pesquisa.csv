@@ -1,0 +1,110 @@
+Carimbo de data/hora,idade,horaDormir,horaSono,transtorno,qualTranstorno,comidas,atividadesFisicas,streamings,senteSono,leitura
+25/06/2024 20:50:36,Mais de 65,Antes das 21h,7,Sim,,4,4,7,6,5
+25/06/2024 20:51:20,Entre 40 e 65,Entre as 22h e 00h,7,Não,,4,8,2,3,9
+25/06/2024 20:51:30,Mais de 65,Entre as 22h e 00h,10,Sim,,8,10,5,10,1
+25/06/2024 20:53:02,Entre 12 e 18,Entre as 22h e 00h,8,Não,,6,8,3,3,2
+25/06/2024 20:53:10,Mais de 65,Após a 00h,6,Não,,4,2,8,5,5
+25/06/2024 20:53:34,Mais de 65,Entre as 21h e as 22h,8,Não,,3,3,3,3,8
+25/06/2024 20:54:10,Entre 12 e 18,Antes das 21h,9,Não,,3,5,10,1,7
+25/06/2024 20:54:20,Entre 18 e 40,Após a 00h,5,Sim,Paralisia do sono,8,4,8,6,3
+25/06/2024 20:55:10,Entre 40 e 65,Antes das 21h,8,Sim,Paralisia do sono,5,6,5,5,2
+25/06/2024 20:55:20,Entre 18 e 40,Após a 00h,8,Não,,3,1,1,4,1
+25/06/2024 20:55:46,Entre 18 e 40,Entre as 22h e 00h,9,Não,,8,7,7,7,5
+25/06/2024 20:55:52,Entre 18 e 40,Entre as 22h e 00h,6,Não,,1,1,1,8,3
+25/06/2024 20:56:58,Entre 40 e 65,Antes das 21h,12,Sim,pesadelo,8,10,7,6,6
+25/06/2024 20:57:19,Entre 18 e 40,Entre as 22h e 00h,7,Sim,insônia ,5,1,8,4,1
+25/06/2024 20:57:30,Mais de 65,Após a 00h,9,Sim,TIKTOK,10,1,10,10,1
+25/06/2024 20:58:04,Entre 18 e 40,Após a 00h,5,Não,,9,4,6,10,1
+25/06/2024 20:58:19,Abaixo de 12,Entre as 22h e 00h,8,Sim,Insônia,3,10,6,8,3
+25/06/2024 20:58:27,Abaixo de 12,Após a 00h,5,Não,,3,6,6,5,5
+25/06/2024 20:58:50,Abaixo de 12,Após a 00h,24,Sim,"não sei, tava dormindo",10,10,10,10,10
+25/06/2024 20:58:52,Abaixo de 12,Antes das 21h,3,Sim,,1,2,4,4,4
+25/06/2024 20:59:22,Entre 12 e 18,Entre as 22h e 00h,9,Não,Não tenho,4,7,9,2,5
+25/06/2024 20:59:41,Entre 40 e 65,Entre as 22h e 00h,17,Sim,pesadelos,5,5,10,6,6
+25/06/2024 21:00:02,Entre 40 e 65,Entre as 21h e as 22h,6,Não,,9,4,10,10,1
+25/06/2024 21:00:15,Entre 18 e 40,Antes das 21h,5,Não,Não tenho,4,8,9,3,6
+25/06/2024 21:00:22,Entre 40 e 65,Entre as 22h e 00h,13,Não,,7,7,7,6,6
+25/06/2024 21:00:33,Entre 12 e 18,Antes das 21h,10,Não,,10,10,10,10,1
+25/06/2024 21:00:52,Mais de 65,Após a 00h,14,Não,,7,6,4,5,5
+25/06/2024 21:01:06,Entre 18 e 40,Entre as 21h e as 22h,6,Sim,Paralisia do sono,7,9,5,7,3
+25/06/2024 21:01:29,Mais de 65,Entre as 22h e 00h,5,Não,,4,7,7,6,10
+25/06/2024 21:01:55,Mais de 65,Antes das 21h,12,Sim,Insônia,1,7,4,4,10
+25/06/2024 21:01:57,Entre 18 e 40,Antes das 21h,12,Não,,8,6,6,6,4
+25/06/2024 21:02:04,Entre 18 e 40,Após a 00h,7,Não,Não tenho,3,9,4,9,2
+25/06/2024 21:02:24,Entre 40 e 65,Após a 00h,22,Não,,2,3,4,5,6
+25/06/2024 21:02:44,Mais de 65,Entre as 21h e as 22h,12,Não,,3,5,5,5,5
+25/06/2024 21:02:45,Entre 18 e 40,Entre as 22h e 00h,8,Não,Não tenho,4,10,8,3,7
+25/06/2024 21:03:16,Mais de 65,Entre as 22h e 00h,12,Não,,8,8,8,8,8
+25/06/2024 21:03:16,Entre 18 e 40,Entre as 22h e 00h,9,Não,Não tenho,4,8,4,7,2
+25/06/2024 21:03:18,Entre 12 e 18,Entre as 21h e as 22h,8,Não,,10,9,7,7,8
+25/06/2024 21:03:35,Abaixo de 12,Após a 00h,12,Não,,8,4,7,1,1
+25/06/2024 21:03:47,Abaixo de 12,Após a 00h,6,Não,,10,10,10,10,1
+25/06/2024 21:03:47,Entre 18 e 40,Entre as 21h e as 22h,6,Não,Não tenho,4,6,9,4,3
+25/06/2024 21:03:54,Entre 40 e 65,Entre as 22h e 00h,3,Não,,8,5,5,4,4
+25/06/2024 21:04:11,Entre 40 e 65,Entre as 22h e 00h,8,Não,,2,1,10,3,1
+25/06/2024 21:04:17,Entre 12 e 18,Entre as 22h e 00h,6,Não,Não tenho,8,9,6,3,2
+25/06/2024 21:04:23,Entre 18 e 40,Entre as 21h e as 22h,12,Sim,pesadelos,1,5,5,7,3
+25/06/2024 21:05:22,Entre 40 e 65,Antes das 21h,13,Sim,paralisia do sono,2,7,7,7,9
+25/06/2024 21:05:35,Entre 12 e 18,Entre as 22h e 00h,9,Sim,Paralisia do sono,10,7,7,7,1
+25/06/2024 21:05:46,Entre 18 e 40,Entre as 22h e 00h,6,Não,Não tenho,9,10,3,8,10
+25/06/2024 21:05:59,Mais de 65,Após a 00h,4,Sim,Insônia ,8,1,3,7,5
+25/06/2024 21:06:33,Entre 18 e 40,Entre as 22h e 00h,15,Não,paralisia do sono,3,7,8,7,2
+25/06/2024 21:06:54,Entre 18 e 40,Após a 00h,9,Não,Não tenho,9,8,4,3,4
+25/06/2024 21:07:28,Entre 18 e 40,Após a 00h,7,Não,,8,8,5,7,1
+25/06/2024 21:07:33,Entre 18 e 40,Entre as 22h e 00h,7,Não,Não tenho,8,10,4,7,2
+25/06/2024 21:07:57,Mais de 65,Após a 00h,12,Não,,7,6,7,6,8
+25/06/2024 21:08:01,Entre 18 e 40,Entre as 22h e 00h,6,Não,Não tenho,4,10,7,4,7
+25/06/2024 21:08:36,Entre 40 e 65,Antes das 21h,8,Não,pesadelo,6,6,5,4,2
+25/06/2024 21:08:38,Entre 18 e 40,Entre as 21h e as 22h,8,Não,Não tenho,8,8,4,5,2
+25/06/2024 21:09:13,Entre 18 e 40,Entre as 21h e as 22h,8,Sim,Insônia,8,9,6,3,5
+25/06/2024 21:09:15,Mais de 65,Entre as 22h e 00h,3,Não,,4,5,5,6,5
+25/06/2024 21:09:46,Entre 40 e 65,Antes das 21h,8,Não,,2,4,4,4,3
+25/06/2024 21:10:23,Entre 18 e 40,Entre as 22h e 00h,7,Não,,4,6,6,5,5
+25/06/2024 21:10:41,Entre 18 e 40,Entre as 21h e as 22h,9,Não,Não tenho,8,4,8,9,5
+25/06/2024 21:11:03,Entre 18 e 40,Entre as 22h e 00h,7,Não,Não tenho,7,9,4,2,1
+25/06/2024 21:11:29,Entre 18 e 40,Após a 00h,8,Sim,Paralisia do sono,9,10,4,7,3
+25/06/2024 21:11:53,Entre 18 e 40,Entre as 22h e 00h,9,Não,Não tenho,9,8,6,3,2
+25/06/2024 21:11:55,Mais de 65,Após a 00h,6,Não,,9,9,5,5,5
+25/06/2024 21:12:19,Entre 18 e 40,Após a 00h,6,Não,Não tenho,10,9,7,3,5
+25/06/2024 21:12:31,Entre 12 e 18,Entre as 21h e as 22h,9,Não,,10,10,10,10,1
+25/06/2024 21:12:43,Entre 18 e 40,Entre as 22h e 00h,8,Não,Não tenho,9,7,3,6,4
+25/06/2024 21:13:06,Entre 18 e 40,Entre as 22h e 00h,7,Não,Não tenho,9,4,8,8,4
+25/06/2024 21:13:16,Abaixo de 12,Entre as 21h e as 22h,10,Não,,10,8,7,10,1
+25/06/2024 21:13:33,Entre 12 e 18,Após a 00h,5,Sim,Insônia,8,7,4,7,8
+25/06/2024 21:13:56,Entre 40 e 65,Entre as 21h e as 22h,8,Não,Não tenho,7,9,6,4,2
+25/06/2024 21:14:04,Entre 40 e 65,Entre as 21h e as 22h,12,Não,12,10,10,10,10,10
+25/06/2024 21:14:18,Entre 12 e 18,Entre as 22h e 00h,6,Não,Não tenho,7,5,2,9,2
+25/06/2024 21:14:27,Entre 40 e 65,Entre as 22h e 00h,8,Não,,4,6,7,5,6
+25/06/2024 21:14:43,Entre 18 e 40,Entre as 21h e as 22h,8,Não,,7,6,5,4,4
+25/06/2024 21:14:45,Entre 40 e 65,Entre as 22h e 00h,7,Não,Não tenho,8,4,7,2,3
+25/06/2024 21:14:59,Entre 40 e 65,Antes das 21h,8,Não,,6,5,3,9,2
+25/06/2024 21:15:10,Entre 18 e 40,Entre as 21h e as 22h,6,Não,Não tenho,9,7,10,3,5
+25/06/2024 21:15:12,Entre 40 e 65,Entre as 22h e 00h,7,Não,,5,8,3,4,2
+25/06/2024 21:15:37,Entre 18 e 40,Entre as 21h e as 22h,8,Não,,6,7,6,5,8
+25/06/2024 21:15:44,Entre 18 e 40,Entre as 21h e as 22h,8,Sim,Paralisia do sono,9,10,4,2,1
+25/06/2024 21:16:06,Entre 40 e 65,Entre as 21h e as 22h,8,Não,,5,5,6,4,4
+25/06/2024 21:16:09,Abaixo de 12,Após a 00h,6,Não,Não tenho,9,7,5,4,1
+25/06/2024 21:16:16,Entre 18 e 40,Entre as 22h e 00h,8,Não,,8,5,8,8,5
+25/06/2024 21:16:29,Entre 40 e 65,Entre as 22h e 00h,8,Não,,5,7,6,7,4
+25/06/2024 21:16:43,Entre 12 e 18,Entre as 22h e 00h,8,Não,,7,6,6,6,4
+25/06/2024 21:16:43,Entre 40 e 65,Entre as 22h e 00h,8,Não,Não tenho,10,6,5,8,3
+25/06/2024 21:16:58,Entre 40 e 65,Entre as 22h e 00h,9,Não,,5,8,4,5,4
+25/06/2024 21:17:05,Entre 18 e 40,Entre as 22h e 00h,7,Não,Não tenho,9,7,5,3,2
+25/06/2024 21:17:16,Entre 18 e 40,Entre as 22h e 00h,9,Não,,6,9,5,5,5
+25/06/2024 21:17:39,Entre 18 e 40,Entre as 22h e 00h,7,Não,Não tenho,10,10,4,6,3
+25/06/2024 21:17:48,Abaixo de 12,Após a 00h,8,Não,,8,7,5,4,2
+25/06/2024 21:17:50,Entre 12 e 18,Após a 00h,6,Não,,10,4,10,10,1
+25/06/2024 21:18:04,Mais de 65,Após a 00h,3,Sim,Pesadelo,9,3,3,10,10
+25/06/2024 21:18:10,Entre 12 e 18,Entre as 22h e 00h,7,Não,,5,10,10,10,1
+25/06/2024 21:18:13,Entre 18 e 40,Entre as 22h e 00h,6,Não,,4,4,7,4,6
+25/06/2024 21:18:17,Entre 40 e 65,Entre as 21h e as 22h,10,Sim,Insônia ,10,1,10,10,4
+25/06/2024 21:18:32,Entre 40 e 65,Entre as 22h e 00h,10,Não,Não tenho,8,9,6,5,2
+25/06/2024 21:18:33,Entre 40 e 65,Antes das 21h,9,Não,,4,7,6,5,7
+25/06/2024 21:19:03,Entre 18 e 40,Entre as 22h e 00h,7,Não,,5,1,10,5,1
+25/06/2024 21:19:38,Entre 18 e 40,Entre as 22h e 00h,8,Não,,5,6,10,10,10
+25/06/2024 21:20:24,Entre 18 e 40,Entre as 22h e 00h,7,Não,,1,6,1,4,3
+25/06/2024 21:23:28,Entre 12 e 18,Entre as 22h e 00h,7,Sim,Insônia ,3,1,10,10,10
+25/06/2024 21:27:49,Entre 18 e 40,Após a 00h,6,Não,,1,5,7,10,5
+25/06/2024 21:28:43,Entre 18 e 40,Após a 00h,8,Não,,3,1,9,10,8
+25/06/2024 21:29:23,Entre 18 e 40,Entre as 22h e 00h,8,Não,,2,2,7,6,2
+25/06/2024 21:29:37,Entre 40 e 65,Entre as 22h e 00h,7,Não,Nenhum ,2,3,3,3,1
